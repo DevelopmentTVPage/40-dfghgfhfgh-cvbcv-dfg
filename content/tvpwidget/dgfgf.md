@@ -6,7 +6,7 @@
     "channelId": "121494071",
     "css": {
         ".widget-body": {
-            "body_font_family": "Helvetica"
+            "body_font_family": "Open Sans"
         }
     },
     "layout": "bootstrap",
